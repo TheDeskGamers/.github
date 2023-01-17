@@ -1,29 +1,49 @@
 <h1 align="center">The Desk Gamers</h1>
+<h3 align="center">🕹️ We are two dudes tring to make games 🎮</h3>
 
-## Index
+## 📄 Index
 
--  [About us](#about-us)
--  [Members](#members)
--  [Languages](#languages)
--  [Tools](#tools)
+- [About us](#-about-us)
+- [Projects](#projects)
+- [Members](#members)
+- [Languages](#%EF%B8%8F-languages)
+- [Tools](#tools)
+- [Roadmap](#roadmap)
+- [Social](#social)
 
-## About us
+## ❓ About us
 
--  We're building [Car's God](https://github.com/TheDeskGamers/Car-s-God) | [Projects](../projects.md)
--  [Reach us](mailto:thedeskgamers@gmail.com)
+- We're building Car's God | [Projects](#projects)
+- [Reach us](mailto:thedeskgamers@gmail.com)
 
-## Members
+## Projects
+- ## [Car's God](https://github.com/TheDeskGamers/Car-s-God)
 
--  [Bonza05](https://github.com/Bonza05)
--  [T1xx1](https://github.com/T1xx1)
+## 👷 Members
 
-## Languages
-<img src="https://img.icons8.com/color/96/null/c-sharp-logo.png" height="70" width="70px" />
+- [Bonza05](https://github.com/Bonza05)
+- [T1xx1](https://github.com/T1xx1)
 
-## Tools
+## 📑 Languages
 
-![](https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg)
+## 🛠️ Tools
+
+## 🏁 Roadmap
+
+- 🟩⬛⬛⬛⬛⬛⬛⬛⬛⬛ • Unity
+- 🟩⬛⬛⬛⬛⬛⬛⬛⬛⬛ • C#
+
+<img src="https://vectorlogo.zone/logos/unity3d/unity3d-icon.svg" height="50" />
+<img src="https://img.icons8.com/color/96/null/c-sharp-logo.png" height="50" />
+
+## 🌐 Social
+
+<div>
+   <a href="https://tiktok.com/@t1xx1">
+      <img src="https://img.icons8.com/color/96/null/tiktok--v1.png" height="50px" />
+   </a>
+</div>
 
 [Credits](../credits.md)
 
-## [Go up](#index)
+## [Go up](#-index)
