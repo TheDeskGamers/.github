@@ -42,7 +42,7 @@
 ## 🌐 Social
 
 <div>
-   <a href="https://tiktok.com/@t1xx1">
+   <a href="https://tiktok.com/@thedeskgamers">
       <img src="https://img.icons8.com/color/96/null/tiktok--v1.png" height="50px" />
    </a>
 </div>
