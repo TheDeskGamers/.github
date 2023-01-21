@@ -1,5 +1,7 @@
 <h1 align="center">The Desk Gamers</h1>
-<h3 align="center">🕹️ We are two dudes tring to make games 🎮</h3>
+<h3 align="center">🕹️ We are two dudes making games 🎮</h3>
+
+![](https://img.shields.io/github/stars/thedeskgamers?style=social)
 
 ## 📄 Index
 
