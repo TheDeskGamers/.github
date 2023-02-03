@@ -20,7 +20,7 @@
 
 ## Projects
 
--  ## [Car's God](https://github.com/TheDeskGamers/Car-s-God)
+-  [Car's God](https://github.com/TheDeskGamers/Car-s-God)
 
 ## 👷 Members
 
@@ -34,7 +34,7 @@
 ## 🏁 Roadmap
 
 -  🟩⬛⬛⬛⬛⬛⬛⬛⬛⬛ • Unity
--  🟩⬛⬛⬛⬛⬛⬛⬛⬛⬛ • C#
+-  🟩🟩⬛⬛⬛⬛⬛⬛⬛⬛ • C#
 
 <div>
    <img src="https://vectorlogo.zone/logos/unity3d/unity3d-icon.svg" height="50" />
